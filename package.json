@@ -1,0 +1,25 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "a project to automate linked in research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShameGod/automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShameGod/automation/issues"
+  },
+  "homepage": "https://github.com/ShameGod/automation#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.2.0",
+    "cypress-cucumber-preprocessor": "^4.0.0"
+  }
+}
