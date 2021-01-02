@@ -2,7 +2,8 @@
     "baseUrl": "https://www.linkedin.com/login/fr?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin",
     "testFiles": "**/*.feature",
     "env" : {
-        "email" : "ridaautomation@gmail.com",
-        "password" : "lelel"
+        "email":"ridaautomation@gmail.com",
+        "password":"automationlinkedin"
     }
+    
 }
